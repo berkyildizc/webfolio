@@ -16,6 +16,7 @@ body {
   background-color: #FFFFFF;
   font-family: 'Inter', sans-serif;
   padding: var(--spacing-base);
+  overflow-x: hidden;
 }
 
 .section-header {
